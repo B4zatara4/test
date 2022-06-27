@@ -3,6 +3,7 @@
 <main>
   <div class="search-box ">
     <input type="text" class="search-bar" placeholder="search...">
+    sadasd
   </div>
 </main>
 </div>
