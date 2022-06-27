@@ -3,6 +3,8 @@
 <main>
   <div class="search-box ">
     <input type="text" class="search-bar" placeholder="search...">
+    <input type="text" class="search-bar" placeholder="search...">
+
   </div>
 </main>
 </div>
